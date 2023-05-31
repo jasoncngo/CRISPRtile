@@ -1,12 +1,12 @@
 ## CRISPRtile
 
-##Git Clone
+## Git Clone
     ```shell
     git clone https://github.com/jasoncngo/CRISPRtile.git
     cd CRISPRtile
     ```
 
-##Mac Installation
+## Mac Installation
     ```shell
     conda create -n CRISPRtile-venv python=3.10 python-kaleido=0.1.* -y
     conda activate CRISPRtile-venv
@@ -14,7 +14,7 @@
     mamba install -c conda-forge autogluon.tabular=0.7.0 mdtraj=1.9.7 -y 
     ```
 
-##Windows Installation
+## Windows Installation
     ```shell
     conda create -n CRISPRtile-venv python=3.10 python-kaleido=0.1.* mdtraj=1.9.7 cudatoolkit=11.3 -y 
     conda activate CRISPRtile-venv
