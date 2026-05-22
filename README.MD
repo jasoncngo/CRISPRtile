@@ -1,5 +1,7 @@
 ## CRISPRtile
+CRISPRtile can be run as a google colab at https://colab.research.google.com/drive/14fvBFYtHNU73_JlbyRMZYwv8L84HKisk?usp=shari
 
+It can also be run locally below
 ## Git Clone
     git clone https://github.com/jasoncngo/CRISPRtile.git
     cd CRISPRtile
